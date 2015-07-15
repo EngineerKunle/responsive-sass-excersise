@@ -1,0 +1,19 @@
+{
+  "name": "responsive-sass-excersise",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matthewfowles/responsive-sass-excersise",
+  "authors": [
+    "Matthew Fowles <matthew.fowles@cohaesus.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "inuitcss": "~5.0.1"
+  }
+}
